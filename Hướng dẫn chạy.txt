@@ -1,0 +1,5 @@
+B1 : Load dữ lieuừ Sugong Database ( dung sql server )
+B2 : Sửa url database 
+B3 : add package JAR
+
+B4 : chạy
